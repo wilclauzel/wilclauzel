@@ -3,7 +3,7 @@
 <img
 		width="100%"
 		alt="title"
-		src="Header.png">
+		src="Header.gif">
 
 <br>
 </h1>
