@@ -56,7 +56,13 @@ or on <img align="center" width="50px" alt="linkedin" src="linkedin-icon.png"> [
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilclauzel&layout=compact&count_private=true&show_icons=true&theme=blue-green" />
-
+<br>
+<br>
+<br> 
+<img align="center" src="https://wilclauzel-activitycounter.herokuapp.com/counter/GitHub/Home?kind=SVG"/>
+<br>
+<br>
+<br>
 <!--
 Web site to extract stats https://github.com/anuraghazra/github-readme-stats
 An example to have stat on a repo
